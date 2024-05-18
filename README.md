@@ -11,3 +11,7 @@ Sample readme with some useful syntax
 `### Heading 3`
 
 `#### Heading 3`
+
+
+
+<img src="https://placehold.co/600x400/EEE/31343C" />
