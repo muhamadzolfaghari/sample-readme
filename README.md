@@ -5,7 +5,7 @@ Sample readme with some useful syntax
 ## Heading
 
 | Heading Level | Markdown Syntax  |
-|---------------|------------------|
+| ------------- | ---------------- |
 | Heading 1     | `# Heading 1`    |
 | Heading 2     | `## Heading 2`   |
 | Heading 3     | `### Heading 3`  |
@@ -15,7 +15,7 @@ Sample readme with some useful syntax
 ## Text Formats
 
 | Format          | Syntax           | Output         |
-|-----------------|------------------|----------------|
+| --------------- | ---------------- | -------------- |
 | `bold`          | `**download**`   | **download**   |
 | `italic`        | `_restful_`      | _restful_      |
 | `strickthrough` | `~~deprecated~~` | ~~deprecated~~ |
@@ -41,20 +41,20 @@ Sample readme with some useful syntax
 ## Link
 
 | Syntax                       | Output                     |
-|------------------------------|----------------------------|
-| `[text](http://url-to-text)` | [text](http://url-to-text) | 
+| ---------------------------- | -------------------------- |
+| `[text](http://url-to-text)` | [text](http://url-to-text) |
 
 ## Images
 
 | Type           | Syntax                                                                    | Output                                                                  |
-|----------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| -------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | HTML img       | `<img src="https://placehold.co/600x400/EEE/31343C"  alt="the picture"/>` | <img src="https://placehold.co/600x400/EEE/31343C"  alt="the picture"/> |
 | Markdown Image | `![alt](https://placehold.co/600x400/EEE/31343C)`                         | ![alt](https://placehold.co/600x400/EEE/31343C)                         |
 
 ## Table
 
 | Section | Syntax                      | Output |
-|---------|-----------------------------|--------|
+| ------- | --------------------------- | ------ |
 | cell    | `\|text\|`                  |        |
 | row     | `\|title\|description\|`    |        |
 | header  | `\|a\|b\|\`<br />`\|-\|-\|` |        |
@@ -62,12 +62,13 @@ Sample readme with some useful syntax
 ### Sample table
 
 ```markdown
-|a|b|
-|-|-|
-|1|2|
+| a   | b   |
+| --- | --- |
+| 1   | 2   |
 ```
 
 
 
 
 
+[![jQuery Plugin Version](https://img.shields.io/badge/version-v1.2.3-blue.svg)](https://github.com/your-username/your-repo/blob/main/jquery.your-plugin-name.js)
